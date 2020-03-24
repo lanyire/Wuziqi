@@ -1,0 +1,23 @@
+#container {
+    width: 530px;
+    height: 530px;
+    margin: 40px auto;
+    background: url(./qipan.jpg) no-repeat;
+    padding-top: 1px;
+    padding-left: 4px;
+}
+
+td {
+    width: 35px;
+    height: 34px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 530px;
+    height: 470px;
+}
+
+.btn {
+    margin: 50px auto;
+}
